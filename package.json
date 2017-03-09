@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hharnisc/generator-service-native-docker"
+    "url": "https://github.com/giggsoff/generator-service-native-docker"
   },
   "license": "MIT"
 }
